@@ -1,3 +1,3 @@
-# Starting a NodeJS server
+# Starting a NodeJS server (learyounode)
 
-Starting a basic NodeJS server, following htttp://www.freecodecamp.com/challenges/waypoint-start-a-nodejs-server
+Basics from NodeJS. My solutions to https://github.com/workshopper/learnyounode
